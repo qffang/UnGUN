@@ -20,7 +20,9 @@ UNGUN_CODE
 └── test.py 
 └── train.py
 ```
-
+data, guidance_data and save folders can be downloaded from the following link:  
+link: https://pan.baidu.com/s/1scUKeK0Fh54ZY_-3yikhmw?pwd=qwer   
+code: qwer
 <small>
   
 *This implementation is for non-commercial research use only. If you find this code useful in your research, please cite the above paper.*
